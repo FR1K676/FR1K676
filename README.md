@@ -1,6 +1,11 @@
-- 👋 Hi, I’m FR1K676
-- Languages I want to work in
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="c++" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+# 👋 Привет, я FR1K676!
+- 🌱 Сейчас изучаю: **JavaScript, HTML, CSS**
+- 💬 Могу помочь с: **JavaScript, MongoDB, Express**
+### 🛠 Технологии и инструменты:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+### 📊 GitHub Статистика:
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=FR1K676&show_icons=true&theme=radical)
+### 😄 Fun-факты:
+-Дурачок
