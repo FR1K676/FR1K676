@@ -7,5 +7,5 @@
 ### 📊 GitHub Статистика:
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=FR1K676&show_icons=true&theme=radical)
 ### 😄 Fun-факты:
--Дурачок
--Ultra-Дурачок
+###-Дурачок
+###Ultra-Дурачок
